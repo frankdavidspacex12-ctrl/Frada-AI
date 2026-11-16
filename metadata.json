@@ -1,0 +1,6 @@
+{
+  "name": "Frada IA - Descubre tu postre ideal",
+  "description": "PWA interactiva con IA para Frada Gelatinas Artesanales. Recomienda el postre ideal según la personalidad del cliente y gestiona inventario en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
